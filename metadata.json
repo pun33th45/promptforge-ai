@@ -1,0 +1,5 @@
+{
+  "name": "PromptForge AI",
+  "description": "An expert AI prompt generator that transforms rough ideas into high-quality, structured prompts for various AI models using the Gemini API.",
+  "requestFramePermissions": []
+}
