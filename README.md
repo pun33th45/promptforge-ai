@@ -19,20 +19,6 @@ PromptForge-AI is a modern web application that helps digital professionals craf
 📸 Screenshots
 <div align="center"> <p><strong>Landing Page and UI</strong></p> <img src="https://raw.githubusercontent.com/pun33th45/promptforge-ai/b25aac4d5d0eaf9b9e1104a7df4d927182c0aa6c/Screenshots/landing%20page.png" width="650" alt="Landing Page and UI" /> <hr width="70%" /> <p><strong>Prompt Generation</strong></p> <img src="https://raw.githubusercontent.com/pun33th45/promptforge-ai/b25aac4d5d0eaf9b9e1104a7df4d927182c0aa6c/Screenshots/Prompt%20generation.png" width="650" alt="Prompt Generation" /> <hr width="70%" /> <p><strong>History</strong></p> <img src="https://raw.githubusercontent.com/pun33th45/promptforge-ai/b25aac4d5d0eaf9b9e1104a7df4d927182c0aa6c/Screenshots/History.png" width="650" alt="Prompt History" /> </div>
 
-🧱 Project Structure
-
-📦 components
-📦 services
-├── App.tsx
-├── index.tsx
-├── constants.tsx
-├── types.ts
-├── vite.config.ts
-📄 .env
-📄 package.json
-📄 tsconfig.json
-📄 README.md
-
 
 components/ – UI components
 
